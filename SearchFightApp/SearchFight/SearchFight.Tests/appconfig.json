@@ -1,0 +1,9 @@
+{
+  "AppSettings": {
+    "GoogleURL": "https://www.googleapis.com/customsearch/v1?key={0}&cx={1}&q={2}",
+    "BingURL": "https://api.cognitive.microsoft.com/bing/v7.0/search",
+    "GoogleAPIKey": "YOUR_GOOGLE_APY_KEY",
+    "GoogleCSEKey": "YOUR_GOOGLE_CSE_KEY",
+    "BingAPIKey": "YOUR_BING_KEY"
+  }
+}
